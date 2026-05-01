@@ -1,11 +1,11 @@
 *
 
 !DREAMER_LSTM_experiment.ipynb
-!DREAMER.mat
 !LSTM_Subject_Independent.ipynb
 !physiological_signal_processing_local.ipynb
 !processed_dreamer_data_ecg_features.csv
 !processed_dreamer_data_eeg_features.csv
 !processed_dreamer_data_fused_features.csv
-
 !.gitignore
+
+*.mat
