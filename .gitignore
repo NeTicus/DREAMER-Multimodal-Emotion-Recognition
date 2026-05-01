@@ -7,5 +7,3 @@
 !processed_dreamer_data_eeg_features.csv
 !processed_dreamer_data_fused_features.csv
 !.gitignore
-
-*.mat
